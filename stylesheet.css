@@ -1,0 +1,30 @@
+input {
+
+}
+
+body {
+	display: block;
+	background-color: #fff;
+	width: 800px;
+	height: 900px;
+}
+
+
+}
+
+.logo {
+	position: center;
+}
+
+.topnav {
+	align-content: left;
+
+}
+
+.navbot {
+	background-color: #F2F2F2
+}
+
+ul {
+	margin: 10px;
+}

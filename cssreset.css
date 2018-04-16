@@ -1,0 +1,96 @@
+.wrapper {
+	width: 100%;
+	height: 860px;
+}
+
+input {
+
+
+}
+
+body {
+
+}
+
+
+.logo {
+
+}
+
+.topnav {
+
+}
+
+.navbot {
+	height: 10%;
+	color: #F2F2F2;
+	width: 100%;
+}
+
+ul {
+	background-color: #F2F2F2;
+	list-style-type: none;
+}
+.bot1 {
+	position: absolute;
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bot2 {
+	left: 10%;
+	position: absolute;
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bot3 {
+	left: 20%;
+	position: absolute;
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+} 
+
+.bot4 {
+	left: 30%;
+	clear: right;
+	position: absolute;
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bot5 {
+	right: 18%;
+	clear: right;
+	position: absolute;
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bot6 {
+	right:12%;
+	position: absolute;
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bot7 {
+	right: 3%;
+	position: absolute;
+	float: left;
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
