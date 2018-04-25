@@ -3,6 +3,7 @@
 <title> Google </title>
 <link href="cssreset.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" type="image/x-icon" href="googleicon.png" />
+<div>
 </head>
 	<div class="topnav">
 	<nav>
@@ -15,29 +16,36 @@
 	</nav>
 <body>
 	<div class="wrapper">
-		<div id="logo"> 
+		<div id="logo">
 		<img src="googlelogo.png">
 		</div>
-			<form action="google.html" method="get" name="bing">
-			<input type="text" name="search">
-				<button type="button" id="button1"> Google Search </button>
-				<button type="button" id="button2"> I'm Feeling Lucky </button>
-			</form>
+		<input class="searchbox" type="text" name="search">
+			<div id="bodylogo">
+				<form action="google.html" method="get" name="bing">
+
+					<input id="buttom1" type="submit" value="Google Search" >
+					<input id="buttom2" type="submit" value=" I'm Feeling Lucky" >
+
+				</form>
+			</div>
 	</div>
 </body>
 <div class="navbot">
-<footer>
-	<nav>
-		<ul>
-			<li class="bot1 "><a href="">Brasil</a>
-			<li class="bot2 "><a href="">Publicidade</a></li>
-			<li class="bot3 "><a href="">Negócios</a></li>
-			<li class="bot4 "><a href="">Sobre</a></li>
-			<li class="bot5 "><a href="">Privacidade</a></li>
-			<li class="bot6 "><a href="">Termos</a></li>
-			<li class="bot7 "><a href="">Configurações</a></li>
-		</ul>
-	</nav>
-</footer>
+	<footer>
+		<nav>
+			<ul>
+				<li class="bot b1"><a href="">Brasil</a>
+				<li class="bot b2 left rui"><a href="">Publicidade</a></li>
+				<li class="bot b3 left rui"><a href="">Negócios</a></li>
+				<li class="bot b4 left rui"><a href="">Sobre</a></li>
+
+
+				<li class="bot b7 right rui"><a href="">Configurações</a></li>
+				<li class="bot b5 right rui"><a href="">Privacidade</a></li>
+					<li class="bot b6 right rui"><a href="">Termos</a></li>
+			</ul>
+		</nav>
+	</footer>
+</div>
 </div>
 </html>
